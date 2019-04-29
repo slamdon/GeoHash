@@ -1,0 +1,11 @@
+{
+    "name": "devdon/geohash",
+    "description": "geo hash converter",
+    "authors": [
+        {
+            "name": "Don Chen",
+            "email": "idon.chen.tw@gmail.com"
+        }
+    ],
+    "require": {}
+}
